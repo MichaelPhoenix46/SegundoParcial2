@@ -26,7 +26,7 @@ namespace SegundoParcial.Entidades
         {
             MantenimientoId = 0;
             Fecha = DateTime.Now;
-
+            //lol no me deja hacer el commit sin hacer cambios
         }
 
 
